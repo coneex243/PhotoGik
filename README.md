@@ -1,4 +1,4 @@
-# Photogik — Telegram Face Recognition Bot
+# PhotoGik - примитивный osint инструмент для поиска по фотографиям
 
 Telegram-бот для распознавания лиц и поиска похожих знаменитостей на фото с помощью API биометрического анализа **Betaface API**.
 
