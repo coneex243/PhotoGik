@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Temporary files & photos
+temp*.jpg
+*.jpg
+*.jpeg
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+
+# Logs
+*.log
